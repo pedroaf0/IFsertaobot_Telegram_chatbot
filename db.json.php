@@ -36,11 +36,6 @@ $db = json_decode('{
     "Action":"none"
   },
   "E-mail institucional": {
-    "msg": "email",
-    "inline":[[{"text":"Voltar"}]],
-    "Action":"none"
-  },
-  "E-mail institucional": {
     "msg": "Desde o inicio de 2020 o IFRS CAMPUS SERTAO disponibiliza o G Suite aos estudantes.",
     "inline":[[{"text":"Voltar"}]],
     "Action":"reply",
